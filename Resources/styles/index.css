@@ -1,0 +1,26 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    color: aqua;
+}
+#header{
+    background-color: blue;
+}
+
+.forms{
+    font-size: larger;
+}
+.country option :hover{
+background-color: brown;
+}
+head ::before{
+content:"My love";
+}
+.forms,#header #nav{
+    color: aqua;
+}
+
+#nav > a {
+    color: darkblue;
+}
